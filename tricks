@@ -1,0 +1,1 @@
+Ember.keys(App.Router.router.recognizer.names)
